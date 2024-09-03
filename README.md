@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋<br><br>
 
-😊 I am Stephanie Huang, a first-year undergraduate student in University of Waterloo, graduated from John Abbott College 2024-2024 Honours Science class.
-🔭 I really enjoy mathematics and physics, but especially, programming. 
-🖥️ Programming languages that I am comfortable to code in are: C# and Javascript. I am also familiar with HTML and CSS, learning to master frameworks like React. 
+😊 I am Stephanie Huang, a first-year undergraduate student in University of Waterloo, graduated from John Abbott College 2024-2024 Honours Science class. <br>
+🔭 I really enjoy mathematics and physics, but especially, programming. <br>
+🖥️ Programming languages that I am comfortable to code in are: C# and Javascript. I am also familiar with HTML and CSS, learning to master frameworks like React. <br>
 🐻 Feel free to check out my linkedIn page: www.linkedin.com/in/stephanie-huang-8babb5293
 
 <!--
