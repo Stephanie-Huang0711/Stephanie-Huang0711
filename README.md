@@ -1,4 +1,4 @@
-## Hi there 👋<br><br>
+## Hi there 👋<br>
 
 😊 I am Stephanie Huang, a first-year undergraduate student in University of Waterloo, graduated from John Abbott College 2024-2024 Honours Science class. <br>
 🔭 I really enjoy mathematics and physics, but especially, programming. <br>
