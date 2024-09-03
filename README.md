@@ -1,21 +1,15 @@
-## Hi there 👋<br>
+### Hi there 👋, my name is Stephanie Huang
+#### I am a first-year undergraduate student studying mechanical engineering @ University of Waterloo. 
+![I am a first-year undergraduate student studying mechanical engineering @ University of Waterloo. ](https://i.postimg.cc/2j7LJ5Lk/temp-Image-OJVOGV.avif)
 
-😊 I am Stephanie Huang, a first-year undergraduate student in University of Waterloo, graduated from John Abbott College 2024-2024 Honours Science class. <br>
-🔭 I really enjoy mathematics and physics, but especially, programming. <br>
-🖥️ Programming languages that I am comfortable to code in are: C# and Javascript. I am also familiar with HTML and CSS, learning to master frameworks like React. <br>
+🔭 I really enjoy mathematics and physics, and of course, programming. <br>
+🖥️ Programming languages that I am comfortable to code in are: C# and Javascript. I am also proficient with HTML and CSS, learning to master frameworks like React. <br>
 🐻 Feel free to check out my linkedIn page: www.linkedin.com/in/stephanie-huang-8babb5293
 
-<!--
-**Stephanie-Huang0711/Stephanie-Huang0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: JS / HTML / CSS/ Reeeeact...
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
